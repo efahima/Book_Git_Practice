@@ -3,3 +3,9 @@ This is page 2 of chapter 1
 our second file
 
 now we have git enabled
+ we had good idea ,so i came back to do some changes
+ this is a new text for this page
+
+ Hello
+ Hello
+ Hello
