@@ -1,0 +1,8 @@
+
+This is the first page of chapter2
+
+this is our book
+
+
+created a new package called chapter_2
+created a new text file called page1
