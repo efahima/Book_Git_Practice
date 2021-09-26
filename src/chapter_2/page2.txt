@@ -6,3 +6,7 @@ now we have git enabled
 
 and will commit and push
 
+I will update this file and add more texts.
+
+will try will commit again and push to Github
+
