@@ -6,3 +6,5 @@ this is our book
 
 created a new package called chapter_2
 created a new text file called page1
+New Text for this page 
+
